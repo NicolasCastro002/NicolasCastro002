@@ -52,5 +52,4 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**,
 
 ## 📫 Contato
 
-- GitHub: https://github.com/NicolasCastro002
-- LinkedIn: *(adicione quando tiver)*
+- GitHub: NicolasCastro002
