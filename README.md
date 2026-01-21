@@ -16,7 +16,7 @@ Tenho interesse em criar aplicações bem estruturadas, funcionais e com boa exp
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+##  SoftSkills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
