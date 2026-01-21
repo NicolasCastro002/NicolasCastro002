@@ -28,26 +28,13 @@ Tenho interesse em criar aplicações bem estruturadas, funcionais e com boa exp
 
 ---
 
-##  Atualmente estudando
-
-- Lógica de Programação  
-- Desenvolvimento Web  
-- Conceitos de Full Stack  
-- Boas práticas de código  
-
----
-
 ##  Objetivo profissional
 
 Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como **Desenvolvedor Full Stack**.
 
 ---
 
-##  Em constante evolução
-
-- Criando projetos para prática  
-- Aprendendo com cursos e documentação  
-- Evoluindo um pouco todos os dias  
+##  Projetos: 
 
 ---
 
