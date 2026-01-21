@@ -1,12 +1,13 @@
-# 👋 Olá, eu sou o Nicolas Teixeira de Castro Lima
+#  Olá, eu sou o Nicolas Teixeira de Castro Lima
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em formação com foco em **Full Stack**  
-🚀 Em constante aprendizado e evolução na área de tecnologia
+ Estudante de **Análise e Desenvolvimento de Sistemas**  
+ Desenvolvedor em formação com foco em **Full Stack**  
+ Em constante aprendizado e evolução na área de tecnologia
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 
+Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada na programação.  
 Atualmente, estou construindo uma base sólida em **Front-end** e **Back-end**, com o objetivo de me tornar um **Desenvolvedor Full Stack**.
@@ -27,7 +28,7 @@ Tenho interesse em criar aplicações bem estruturadas, funcionais e com boa exp
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - Lógica de Programação  
 - Desenvolvimento Web  
@@ -36,20 +37,20 @@ Tenho interesse em criar aplicações bem estruturadas, funcionais e com boa exp
 
 ---
 
-## 🎯 Objetivo profissional
+##  Objetivo profissional
 
 Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como **Desenvolvedor Full Stack**.
 
 ---
 
-## 📈 Em constante evolução
+##  Em constante evolução
 
 - Criando projetos para prática  
 - Aprendendo com cursos e documentação  
-- Evoluindo um pouco todos os dias 🚀  
+- Evoluindo um pouco todos os dias  
 
 ---
 
-## 📫 Contato
+## 
 
-- GitHub: NicolasCastro002
+# Linkedin:
