@@ -34,10 +34,3 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**,
 
 ---
 
-##  Projetos: 
-
----
-
-## 
-
-# Linkedin:
